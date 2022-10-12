@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *JavaScript, ReactJS, NodeJS and Python*
 
-- 📫 How to reach me *hemantpyadav007@gmail.com*
+- 📫 How to reach me *hemanttyadav007@gmail.com*
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantyadav07&show_icons=true&locale=en&layout=compact" alt="hemantyadav07" /></p>
