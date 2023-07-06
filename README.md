@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantyadav07&label=Profile%20views&color=0e75b6&style=flat" alt="hemantyadav07" /> </p>
 
 
-- 🌱 I’m currently learning *JavaScript, ReactJS, NodeJS, Python Full Stack Development, SpringBoot, RestApi, Json, Angular*
+- 🌱 I’m currently learning *JavaScript, ReactJS, NodeJS, Python Full Stack Development, SpringBoot, RestApi, Json, Angular, Postman*
 
 - 📫 How to reach me *hemanttyadav007@gmail.com*
 
