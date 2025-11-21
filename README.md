@@ -13,9 +13,7 @@
 
 - 🌱 As a dedicated Backend Developer based in India, I specialize in architecting and delivering high-performance financial technology. I have one year of experience in banking operations development, leveraging the powerful Actico Moduler to create robust and scalable applications.
  
-My core technical proficiencies include Java, Spring Boot, MySQL, and RESTful APIs. Furthermore, I am skilled in developing microservices and deploying and managing applications on modern cloud platforms like AWS and Azure, ensuring our solutions are always available and secure. I am committed to solving complex problems and delivering high-quality software that brings genuine value to clients
- 
-Proficient in leveraging Actico Moduler to decouple business logic from application code, delivering high business agility and guaranteed regulatory compliance.*
+- My core technical proficiencies include Java, Spring Boot, MySQL, and RESTful APIs. Furthermore, I am skilled in developing microservices and deploying and managing applications on modern cloud platforms like AWS and b  Azure, ensuring our solutions are always available and secure. I am committed to solving complex problems and delivering high-quality software that brings genuine value to clients Proficient in leveraging Actico Moduler to decouple business logic from application code, delivering high business agility and guaranteed regulatory compliance.*
 
 - 📫 How to reach me *hemanttyadav007@gmail.com*
 
