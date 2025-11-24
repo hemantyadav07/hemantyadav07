@@ -15,9 +15,9 @@
  
 - My core technical proficiencies include Java, Spring Boot, MySQL, and RESTful APIs. Furthermore, I am skilled in developing microservices and deploying and managing applications on modern cloud platforms like AWS and b  Azure, ensuring our solutions are always available and secure. I am committed to solving complex problems and delivering high-quality software that brings genuine value to clients Proficient in leveraging Actico Moduler to decouple business logic from application code, delivering high business agility and guaranteed regulatory compliance.*
 
-- 📫 How to reach me *hemanttyadav007@gmail.com
-- https://www.linkedin.com/in/hemant-yadav-02429024b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- https://www.instagram.com/_____hemant_07______?igsh=MTExeDJqcmFlbWV0Nw==*
+- 📫 How to reach me *hemanttyadav007@gmail.com*
+- *https://www.linkedin.com/in/hemant-yadav-02429024b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+- *https://www.instagram.com/_____hemant_07______?igsh=MTExeDJqcmFlbWV0Nw==*
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantyadav07&show_icons=true&locale=en&layout=compact" alt="hemantyadav07" /></p>
