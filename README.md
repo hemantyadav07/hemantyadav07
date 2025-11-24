@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
-<h3 align="center">A Passionate Programmer From India</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
 <p align="center">
   <kbd>
