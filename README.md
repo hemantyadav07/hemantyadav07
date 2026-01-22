@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww"></img>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://private-user-images.githubusercontent.com/39761857/243217347-520aaa71-524f-4d2c-9ea0-14b005546586.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkwNzQwMTAsIm5iZiI6MTc2OTA3MzcxMCwicGF0aCI6Ii8zOTc2MTg1Ny8yNDMyMTczNDctNTIwYWFhNzEtNTI0Zi00ZDJjLTllYTAtMTRiMDA1NTQ2NTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIyVDA5MjE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxYmJiYzBkZjJiM2ZlMjFkOWVkYzRmMDNkM2NlNGExZWIwZWE2NjFkMzA0ZGJlYTAzMmNlNTkzYjEzM2EwYTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qjvoxedlplEkMDWf01Ib04LiuQHLY84wT8iSuLp1AkY" width="365" height="273">
   </kbd>
 </p>
 
