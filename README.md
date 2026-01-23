@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-img src="https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_.webp" alt="How-to-Become-a-GenAI-Developer_" width="1000" height="470" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_.webp 1000w,https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_-100.webp 100w,https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_-200.webp 200w,https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_-300.webp 300w,https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_-660.webp 660w,https://media.geeksforgeeks.org/wp-content/uploads/20250226105620306849/How-to-Become-a-GenAI-Developer_-768.webp 768w" title="Click to enlarge" style="cursor: zoom-in;">
+<img src="https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww%22></img>
   </kbd>
 </p>
 
