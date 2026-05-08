@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Yadav</h1>
 
 <h3 align="center">
-Software Developer | Backend Engineer
+Software Developer | Backend Developer
 </h3>
 
 <p align="center">
